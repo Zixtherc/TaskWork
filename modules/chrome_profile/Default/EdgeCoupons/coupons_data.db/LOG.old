@@ -1,0 +1,5 @@
+2026/10/16-02:04:49.689 20a8 Creating DB C:\PROJECT VISUAL STUDIO CODE\TaskWork\braincom_project\modules\chrome_profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/10/16-02:04:49.737 20a8 Reusing MANIFEST C:\PROJECT VISUAL STUDIO CODE\TaskWork\braincom_project\modules\chrome_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/10/16-02:04:52.871 4f48 Level-0 table #5: started
+2026/10/16-02:04:52.885 4f48 Level-0 table #5: 683273 bytes OK
+2026/10/16-02:04:52.886 4f48 Delete type=0 #3
