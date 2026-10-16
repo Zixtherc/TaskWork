@@ -129,3 +129,4 @@ venv.bak/
 *.csv
 *.xlsx
 *.json
+modules/chrome_profile/
